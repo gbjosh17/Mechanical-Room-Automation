@@ -19,13 +19,13 @@ I created a Dynamo script that automatically:
 
 ## 📷 Project Screenshots
 **1. Revit Model**
-![Revit Model](Revit_Model.png)
+![Revit Model](Revit.png)
 
 **2. Dynamo Automation Script**
-![Dynamo Script](Dynamo_Script.png)
+![Dynamo Script](Dynamo.png)
 
 **3. Excel Output**
-![Excel Output](Excel_Output.png)
+![Excel Output](image.png)
 
 ## 📁 Project Files
 *Note: The full Revit (.rvt) model is available upon request. An IFC (.ifc) export is provided for easy viewing without Revit.*
